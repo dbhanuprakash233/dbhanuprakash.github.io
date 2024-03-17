@@ -13,7 +13,6 @@ github_username: dbhanuprakash233
 
 markdown: kramdown
 theme: minima
-{% if page.subtitle %}{{ page.subtitle }}{% endif %}
 plugins:
   - jekyll-feed
 
