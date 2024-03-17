@@ -26,7 +26,7 @@ Publications
 Conferences and Workshops
 -------------------------
 
-*   I gave talks in 2 conferences and participated in 3 workshops, 1 Winter School and 5 conferences. Details are given in [Curriculum Vitae](CV.pdf).
+*   I gave talks in 1 workshop, 2 conferences and participated in 3 workshops, 1 Winter School and 5 conferences. Details are given in [Curriculum Vitae](CV.pdf).
 
 Teaching
 --------
