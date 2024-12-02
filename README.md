@@ -18,7 +18,7 @@ Email: [dbhanuprakash233@gmail.com](mailto:dbhanuprakash233@gmail.com)
 ### Know More
 
 <p align='center'>
-    <a href="http://www.linkedin.com/in/dnvbprakash/">
+    <a href="http://www.linkedin.com/in/dbhanuprakash233/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.researchgate.net/profile/Bhanu-Prakash-50">
         <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>&nbsp;&nbsp;
